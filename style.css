@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 35px;
+    margin-top: 50px;
+}
+
+#av {
+    width: 500px;
+    height: 800px;
+}
+
+.menu {
+    list-style-type: none;
+    font-family: 'BebasNeue', cursive;
+    font-size: 20px;
+    margin-top: 20px;
+    position: absolute;
+    left: 250px;
+
+}
+
+.links {
+    float: left;
+    padding-left: 10px;
+    font-size: 25px;
+}
+
+.links:hover {
+    background-color: darkturquoise
+}
